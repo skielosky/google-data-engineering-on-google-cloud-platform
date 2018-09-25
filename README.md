@@ -10,7 +10,7 @@
 
 ![Certificate](00-ezequiel-aguilar-gonzalez-data-engineering-on-google-cloud-Platform-specialization.png)
 
-
-| --- | --- |
 |Certification name|Data Engineering on Google Cloud Platform Specialization|
+| --- | --- |
 |Certification authority|Coursera - Google Cloud|
+|License number| R78L9M2E2J5F|
