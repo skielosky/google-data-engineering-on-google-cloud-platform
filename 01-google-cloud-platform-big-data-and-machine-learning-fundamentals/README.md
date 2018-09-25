@@ -7,4 +7,4 @@
 |License number| 5RKN9P88R638|
 |Time period - From| July 2018|
 |Time period - To| - |
-|Certification URL|[Verify at coursera.org/verify/5RKN9P88R638](Verify at coursera.org/verify/5RKN9P88R638) |
+|Certification URL|[coursera.org/verify/5RKN9P88R638](coursera.org/verify/5RKN9P88R638) |
