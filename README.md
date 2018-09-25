@@ -9,3 +9,8 @@
 5. - [x] [Building Resilient Streaming Systems on Google Cloud Platform](https://github.com/skielosky/google-data-engineering-on-google-cloud-platform/tree/master/05-building-resilient-streaming-systems-on-google-cloud-platform)
 
 ![Certificate](00-ezequiel-aguilar-gonzalez-data-engineering-on-google-cloud-Platform-specialization.png)
+
+|  |  |
+| --- | --- |
+|Certification name|Data Engineering on Google Cloud Platform Specialization|
+|Certification authority|Coursera - Google Cloud|
