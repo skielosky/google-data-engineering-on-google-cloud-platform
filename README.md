@@ -14,3 +14,6 @@
 | --- | --- |
 |Certification authority|Coursera - Google Cloud|
 |License number| R78L9M2E2J5F|
+|Time period - From|September 2018|
+|Time period - To| - |
+|Certification URL|[https://www.coursera.org/account/accomplishments/specialization/R78L9M2E2J5F](    https://www.coursera.org/account/accomplishments/specialization/R78L9M2E2J5F) |
